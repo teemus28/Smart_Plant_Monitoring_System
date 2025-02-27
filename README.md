@@ -3,8 +3,6 @@
 
 A **Smart Plant Monitoring System** using **Arduino/ESP8266**, **DHT11 sensor**, **LDR**, and **soil moisture sensor** to automate irrigation and monitor environmental conditions. The system sends data to **Blynk** for remote monitoring and triggers a **buzzer** if critical thresholds are met.
 
-## 📷 Project Overview
-![Project Banner](https://your-image-url.com)  <!-- Replace with actual image URL -->
 
 ## 🚀 Features
 - 📡 **Real-time monitoring** of **temperature, humidity, and soil moisture**.
